@@ -1,0 +1,6 @@
+@AviaTicket_HostAddress = http://localhost:5244
+
+GET {{AviaTicket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

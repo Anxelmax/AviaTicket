@@ -1,0 +1,11 @@
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\bin\Debug\net8.0\AviaTicket.Model.deps.json
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\bin\Debug\net8.0\AviaTicket.Model.dll
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\bin\Debug\net8.0\AviaTicket.Model.pdb
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\AviaTicket.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\AviaTicket.Model.AssemblyInfoInputs.cache
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\AviaTicket.Model.AssemblyInfo.cs
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\AviaTicket.Model.csproj.CoreCompileInputs.cache
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\AviaTicket.Model.dll
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\refint\AviaTicket.Model.dll
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\AviaTicket.Model.pdb
+C:\Users\Xamidullo\source\repos\AviaTicket\AviaTicket.Model\obj\Debug\net8.0\ref\AviaTicket.Model.dll
